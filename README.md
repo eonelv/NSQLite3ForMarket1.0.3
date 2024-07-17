@@ -1,2 +1,2 @@
-# NSQLite3ForMarket1.0.3
-1.0.3
+# NSQLite3ForMarket2
+NSQLite3 version1.0.2. add mac support

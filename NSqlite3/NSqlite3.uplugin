@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NSqlite3",
+	"Description": "This is a Sqlite3 Plugin that can be use in blueprint very easy",
+	"Category": "Other",
+	"CreatedBy": "ngcod",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e4538e9f02ec46c9b4f6609fb0e87161",
+	"SupportURL": "",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "NSqlite3",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"IOS",
+				"Android",
+				"Mac"
+			]
+		}
+	]
+}
